@@ -54,14 +54,6 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuellam123&show_icons=true&theme=radical)
-![Yu En's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuellam123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellam123&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuellam123&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuellam123&theme=tokyonight)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=samuellam123&color=blue)
-
-
 ---
 
 ## 📫 Connect with Me
