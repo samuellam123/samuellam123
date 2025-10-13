@@ -54,6 +54,8 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuellam123&show_icons=true&theme=radical)
+
 ---
 
 ## 📫 Connect with Me
