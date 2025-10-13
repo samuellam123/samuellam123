@@ -41,6 +41,21 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
+
+---
+
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuellam123)  
 - 🌐 [Portfolio](https://tinyurl.com/LamYuEn-Portfolio)  
