@@ -17,8 +17,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🔐 **SafeQuard for Teams** – Post-quantum encrypted Microsoft Teams extension  
+- 🚀 **Fabwatcher Cloud Dashboard** – A responsive Next.js, TypeScript dashboard for real-time 3D printer farm monitoring. Deployed the frontend as a static site on AWS S3 and implemented supporting backend APIs on EC2, integrating with DynamoDB as a NoSQL database. Owned the end-to-end flow from UI design to production deployment.  
 - 💼 **DBS Onboarding Webapp** – Ruby-based platform with multilingual support + OCR via Gemini API → reduced clicks by **31%** and improved completion rates  
+- 🔐 **SafeQuard for Teams** – A Teams message extension that encrypt sensitive messages and attachments using post-quantum cryptography (PQC) on the client side before uploading to SharePoint (Node.js, Express.js, Web Crypto API).
 - 📈 **SimpleDB** – Lightweight relational DBMS in Java: tuple storage, buffer pool eviction, relational operators, B+ tree indexing, and transaction handling  
 - 💻 **CSEShell** – Custom Linux shell in C with system programs (find, ld, ldr), command history, and resource usage feedback  
 - 🎮 **Gaming Controller App** – Android app turning smartphones into PC gaming controllers via Bluetooth (Java)  
