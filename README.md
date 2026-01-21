@@ -2,7 +2,7 @@
 
 🎓 Computer Science student @ **SUTD** (FinTech specialization), graduating **May 2026**  
 💻 Passionate about **software engineering**, **fintech**, and **assistive technology**  
-🚀 Co-founder of [**ObstaX**](https://www.linkedin.com/company/obstax) – navigation assistive device for the visually impaired  
+🚀 Co-founder of [**ObstaX**](https://www.obstax.sg) – navigation assistive device for the visually impaired  
 💼 Software Engineer Intern @ [**pQCee**](https://www.pqcee.com/) – built an end-to-end **Post-Quantum Cryptography** Teams extension  
 📊 Product Designer Intern @ **GIC** – led redesign of the **deals screening page** for front-office users  
 
